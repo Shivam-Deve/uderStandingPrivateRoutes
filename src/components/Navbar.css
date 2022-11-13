@@ -1,0 +1,22 @@
+.navbar {
+  line-height: 50px;
+  background-color: #111113;
+}
+.wrapper {
+  display: flex;
+  justify-content: space-around;
+}
+.wrapper a {
+  text-decoration: none;
+  color: aqua;
+}
+a.active {
+  color: red;
+}
+button {
+  background: transparent;
+  color: aqua;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}
